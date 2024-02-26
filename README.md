@@ -1,4 +1,4 @@
-# [kitty_castle](https://istiakahammedsaad.github.io/kitty_castle/)
+# [kitty_castle](https://istiakahmedsaad.github.io/kitty_castle/)
 
 ### CSS
 Here i use [Tailwind-CSS](https://tailwindcss.com/docs/installation/play-cdn) Framework CDN.<br />
